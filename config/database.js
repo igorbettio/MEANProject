@@ -1,3 +1,3 @@
 module.exports = {
-    'url' : 'mongodb://igor:123@ds119250.mlab.com:19250/authenticationdb'
+    'url' : 'mongodb://user:password@ds119250.mlab.com:19250/authenticationdb'
 };
